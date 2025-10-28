@@ -1,0 +1,32 @@
+{
+  "series_title": "Hearts of Hillcrest",
+  "logline": "Love, betrayal, and redemption in a boutique hospital on the coast.",
+  "style": "Daytime serial, melodramatic but grounded, PG-13, continuity-heavy.",
+  "characters": [
+    {
+      "id": "ava_maseko",
+      "name": "Dr. Ava Maseko",
+      "bio": "Brilliant cardiothoracic surgeon; guarded heart; secret child.",
+      "visual_prompt": "30s South African woman, warm brown skin, natural makeup, curly bob, teal scrub top with stethoscope, cinematic soft light",
+      "seed": 241337,
+      "voice": "voice_female_soft_za"
+    },
+    {
+      "id": "leo_drennan",
+      "name": "Leo Drennan",
+      "bio": "Hospital COO; charming, ruthless with a hidden moral code.",
+      "visual_prompt": "30s man, olive skin, short dark hair, tailored charcoal suit, hospital corridor background, cinematic rim light",
+      "seed": 845771,
+      "voice": "voice_male_calm"
+    }
+  ],
+  "locations": [
+    "Hillcrest General - surgical wing",
+    "Harbourfront café",
+    "Clifftop overlook"
+  ],
+  "season_arcs": [
+    "Ava’s secret comes to light; Leo chooses love or legacy.",
+    "A mystery donor manipulates hospital finances."
+  ]
+}
